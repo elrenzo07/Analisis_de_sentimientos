@@ -1,0 +1,5 @@
+Analisis_de_sentimientos_nltk
+- hace uso de la libreria nltk para analizar sentimientos sobre frases cargadas en variables.
+- el mismo tiene la particularidad de que las frases tienen que estar en idioma ingles.
+- las instrucciones de instalación de la librería estan en el código.
+
